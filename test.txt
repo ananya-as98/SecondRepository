@@ -1,1 +1,2 @@
-Hello, Welcome to git tutorial
+Hello, Welcome to git tutorial. 
+Adding text to file.
